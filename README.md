@@ -2,6 +2,7 @@
 
 My name is Gavin Fowler
 ![image](https://user-images.githubusercontent.com/106996277/172507561-00f3af48-930d-4475-b672-08832251da05.png)
+![image](https://user-images.githubusercontent.com/106996277/172507859-7409af44-12f3-41f1-a320-c7dfc94b45c8.png)
 
 - 🌱 I’m currently learning how to comminicate with others better.
 - 💻 I want to learn how to read and write code in CS.
