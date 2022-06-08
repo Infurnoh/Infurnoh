@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 My name is Gavin Fowler
-!(https://user-images.githubusercontent.com/106996277/172507561-00f3af48-930d-4475-b672-08832251da05.png)
+(https://user-images.githubusercontent.com/106996277/172507561-00f3af48-930d-4475-b672-08832251da05.png)
 
 - 🌱 I’m currently learning how to comminicate with others better.
 - 💻 I want to learn how to read and write code in CS.
