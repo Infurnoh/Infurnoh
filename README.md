@@ -8,6 +8,5 @@ My name is Gavin Fowler
 - 💻 I want to learn how to read and write code in CS.
 - 📺 Learning CS is important to me because it opens up new career options.
 - 🏍  My Hobbies are Dirtbiking, Snowmobiling, and Videogames.
-- 📫 How to reach me: My 2 emails are gavincaseyf@outlook.com and fowlergavin@icloud.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have the worlds largest manufactured lava lamp.
